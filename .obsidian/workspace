@@ -7,11 +7,8 @@
         "id": "ff2d30133246b584",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "finance/index.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       },
       {
@@ -85,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1bbe4cfa4d07843a",
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "finance/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +117,11 @@
   },
   "active": "ff2d30133246b584",
   "lastOpenFiles": [
+    "Untitled.md",
     "finance/index.md",
     "math/index.md",
     "Readme.md",
     "Selfhelp and Life/index.md",
-    "Untitled.md",
     "index.md"
   ]
 }
