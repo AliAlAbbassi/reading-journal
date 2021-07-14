@@ -18,6 +18,7 @@
 -   The Art Of Seductions
 -   Security Analysis by Benjamin Graham
 -   Margin of safety and risk
+-   The Laws of Human Nature
 -   The ABCs of Real Estate Investing (best for beginners)
 
 ### Planning To Read 
