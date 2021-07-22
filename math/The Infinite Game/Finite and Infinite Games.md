@@ -1,3 +1,5 @@
+keywords: #math #infiniteplayer #finiteplayer #gametheory
+
 if there are at least two players, a game exists. And there are two kinds of
 games: finite games and infinite games.
 
